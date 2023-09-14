@@ -96,6 +96,7 @@ ul li{
 
 .reel h2{
   color: #FFF;
+  font-family: 'ABeeZee';
 }
 
 .stop-btn{
@@ -113,9 +114,9 @@ ul li{
 .stop-btn:hover{
   background-color: #ec0000;
   cursor: pointer;
-  box-shadow: 0 0 29px 31px #fff,
-  0 0 19px 19px 	#eb2929,
-  0 0 33px 1px 	#ef4040
+  box-shadow: 0 0 19px 5px #fff,
+  0 0 15px 10px 	#eb292934,
+  0 0 20px 1px 	#ef4040
   ;
 }
 
