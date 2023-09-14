@@ -94,6 +94,10 @@ ul li{
   max-width: 100%;
 }
 
+.reel h2{
+  color: #FFF;
+}
+
 .stop-btn{
   display: inline-block;
   padding: 30px;
